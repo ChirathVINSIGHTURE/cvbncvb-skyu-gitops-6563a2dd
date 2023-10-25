@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: cvbncvb-prod
+  labels:
+    environment-id: env_f258a31d-e11b-4892-8f08-2c711f3d91a8
+    project-id: project_62ab4aed-a9ae-47dd-be00-cab07e0c2c07
+    project-name: cvbncvb
+    environment-name: prod
+    organization-id: org_1c58789b-c98c-4917-b321-116968ec4f8e
